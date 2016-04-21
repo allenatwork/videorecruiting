@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="progressBar" type="id" />
+    <item name="buttonClose" type="id" />
+    <item name="layoutFailed" type="id" />
+    <item name="loading_view" type="id" />
+</resources>
